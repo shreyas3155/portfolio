@@ -15,7 +15,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web developer, and amateur astronaut.",
+		title: "Full-stack web developer",
 		description:
 			"I'm Shreyas, a frontend developer who enjoys building clean, responsive web apps using React.js, Tailwind CSS, and JavaScript. I'm currently studying Computer Science at CHARUSAT and love turning creative ideas into functional, user-friendly interfaces.",
 	},
