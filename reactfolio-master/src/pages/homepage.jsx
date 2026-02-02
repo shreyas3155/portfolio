@@ -104,7 +104,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="HomeHero.jpeg"
+											src="HomeHero.Jpeg"
 											alt="about"
 											className="homepage-image"
 										/>
