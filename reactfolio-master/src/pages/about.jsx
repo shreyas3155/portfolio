@@ -8,6 +8,9 @@ import Socials from "../components/about/socials";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
+//portfolio\reactfolio-master\public\My Photo2.jpeg
+import Myphoto from "../assets/My Photo2.jpeg";
+
 
 import "./styles/about.css";
 
@@ -54,7 +57,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="about.jpg.jpg"
+											src={Myphoto}
 											alt="about"
 											className="about-image"
 										/>

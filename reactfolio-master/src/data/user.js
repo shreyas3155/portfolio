@@ -7,17 +7,17 @@ const INFO = {
 	},
 
 	socials: {
-		
+
 		github: "https://github.com/",
 		linkedin: "https://www.linkedin.com/in/shreyas-hathiwala-7b7121251/",
 		instagram: "https://www.instagram.com/shreyashhathiwala/profilecard/?igsh=bXRuM3dmN3lyaDA1",
-		
+
 	},
 
 	homepage: {
-		title: "Full-stack web developer",
+		title: "Full-stack web developer & Graphic Designer",
 		description:
-			"I'm Shreyas, a frontend developer who enjoys building clean, responsive web apps using React.js, Tailwind CSS, and JavaScript. I'm currently studying Computer Science at CHARUSAT and love turning creative ideas into functional, user-friendly interfaces.",
+			"I’m Shreyas, a Full-Stack Web Developer at Stackdot, building clean, responsive, and scalable web applications using React.js, Tailwind CSS, JavaScript, and modern backend technologies.Alongside development, I also work as a part-time graphic designer, creating UI designs, visual assets, and digital creatives that combine aesthetics with usability."
 	},
 
 	about: {
@@ -26,7 +26,7 @@ const INFO = {
 			"full-stack developer with a passion for building seamless web apps.From React frontends to Nodejs backends, I love bringing complete products to life.With real-world projects and internships under my belt, I turn ideas into impact.Currently pursuing Computer Science at CHARUSAT University.Always curious, always coding—because tech never stops evolving",
 	},
 
-	
+
 
 	projects: [
 		{
@@ -48,7 +48,7 @@ const INFO = {
 			link: "https://github.com/shreyas3155/ReviewBot",
 		},
 
-		
+
 
 	],
 };
