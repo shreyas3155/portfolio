@@ -18,7 +18,6 @@ import AllProjects from "../components/projects/allProjects";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
-import HomeHero from "../assets/My Photo2.jpeg";
 // import HomeHero from "../assets/HomeHero.jpeg";
 import MyPhoto3 from "../assets/My photo3.png";
 

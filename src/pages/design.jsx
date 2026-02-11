@@ -11,7 +11,7 @@ import SEO from "../data/seo";
 import "./styles/design.css";
 
 // Import images
-import img1 from "../assets/MyDesign/Frame 2.png";
+// import img1 from "../assets/MyDesign/Frame 2.png";
 import img2 from "../assets/MyDesign/Instagram Meal Post.png";
 import img3 from "../assets/MyDesign/Instagram post - 1 pizza.png";
 import img4 from "../assets/MyDesign/Instagram post - 3 God.png";
