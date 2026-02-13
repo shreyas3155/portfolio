@@ -17,6 +17,10 @@ import img3 from "../assets/MyDesign/Instagram post - 1 pizza.png";
 import img4 from "../assets/MyDesign/Instagram post - 3 God.png";
 import img5 from "../assets/MyDesign/Instagram post - 3.png";
 import img6 from "../assets/MyDesign/Typo 1.png";
+import img7 from "../assets/MyDesign/book cover.jpg";
+import img8 from "../assets/MyDesign/bamboo logo JPG.jpg"
+import img9 from "../assets/MyDesign/t shit.jpg"
+import img10 from "../assets/MyDesign/burger poster.jpg"
 
 const Design = () => {
     useEffect(() => {
@@ -35,6 +39,11 @@ const Design = () => {
         { id: 4, src: img4, title: "Divine Post" },
         { id: 5, src: img5, title: "Product Showcase" },
         { id: 6, src: img6, title: "Typography Art" },
+        { id: 7, src: img7, title: "Book Cover" },
+        { id: 8, src: img8, title: "Bamboo Logo" },
+        { id: 9, src: img9, title: "T-Shirt Design" },
+        { id: 10, src: img10, title: "Burger Poster" }
+
     ];
 
     const openLightbox = (image) => {
