@@ -21,6 +21,8 @@ import img7 from "../assets/MyDesign/book cover.jpg";
 import img8 from "../assets/MyDesign/bamboo logo JPG.jpg"
 import img9 from "../assets/MyDesign/t shit.jpg"
 import img10 from "../assets/MyDesign/burger poster.jpg"
+import img11 from "../assets/MyDesign/Flayer 1.png"
+import img12 from "../assets/MyDesign/pethouse.png"
 
 const Design = () => {
     useEffect(() => {
@@ -42,7 +44,9 @@ const Design = () => {
         { id: 7, src: img7, title: "Book Cover" },
         { id: 8, src: img8, title: "Bamboo Logo" },
         { id: 9, src: img9, title: "T-Shirt Design" },
-        { id: 10, src: img10, title: "Burger Poster" }
+        { id: 10, src: img10, title: "Burger Poster" },
+        { id: 11, src: img11, title: "Flayer 1" },
+        { id: 12, src: img12, title: "pethouse" }
 
     ];
 
