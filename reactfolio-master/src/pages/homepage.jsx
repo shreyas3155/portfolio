@@ -180,7 +180,7 @@ const Homepage = () => {
 						</motion.div>
 
 						<motion.a
-							href="/resume_main (5).pdf"
+							href="/resume_main (1).pdf"
 							target="_blank"
 							rel="noopener noreferrer"
 							style={{ textDecoration: "none" }}
